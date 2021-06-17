@@ -87,7 +87,7 @@ img{
     background-repeat: no-repeat;
 }
 #home {
-    background-image: url(../images/derek-oyen-3Xd5j9-drDA-unsplashのコピー.jpg);
+    background-image: url(../images/pengin.jpg);
     min-height: 100vh;
 }
 #home .page-title {
@@ -97,7 +97,7 @@ img{
 
 /* NEWS------------------------------- */
 #news {
-    background-image: url(../images/derek-oyen-3Xd5j9-drDA-unsplashのコピー.jpg);
+    background-image: url(../images/pengin.jpg);
     height: 270px;
     margin-bottom: 40px;
 }
@@ -190,7 +190,7 @@ aside p{
 }
 /* MENU */
 #menu {
-    background-image: url(../images/derek-oyen-3Xd5j9-drDA-unsplashのコピー.jpg);
+    background-image: url(../images/pengin.jpg);
     min-height: 100vh;
 }
 .menu-content {
@@ -232,7 +232,7 @@ footer p {
 }
 /* CONTACT */
 #contact {
-    background-image: url(../images/derek-oyen-3Xd5j9-drDA-unsplashのコピー.jpg);
+    background-image: url(../images/pengin.jpg);
     min-height: 100vh;
 }
 #contact .page-title {
