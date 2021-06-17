@@ -292,6 +292,13 @@ footer p {
      /* MENU*/
     .menu-content {
     margin-top: 20%;
-}
+　　　}
+　　　.big-box {
+    grid-column:auto;
+    grid-row: auto;
+    }
+    .big-box img {
+        height: auto;
+    }
 
 }
