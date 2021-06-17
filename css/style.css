@@ -302,6 +302,7 @@ iframe {
 .sns-box {
     width: 30%;
 }
+
 /* モバイル版*/
 @media (max-width:600px) {
     .page-title {
@@ -372,6 +373,19 @@ iframe {
     }
     .big-box img {
         height: auto;
+    }
+    /* テンポ情報:地図：SNS*/
+    #location .wrapper,
+    #sns .wrapper {
+        flex-direction: column;
+    }
+    .location-info,
+    .location-map,
+    .sns-box {
+        width: 100%;
+    }
+    .sns-box {
+        margin-bottom: 30px;
     }
 
 }
