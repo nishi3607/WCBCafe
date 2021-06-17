@@ -36,7 +36,7 @@ img{
     margin-left: 36px;
 }
 .main-nav a {
-    color: #432;
+    color: #FFF;
 }
 .main-nav a:hover {
     color: #0bd;
@@ -87,21 +87,23 @@ img{
     background-repeat: no-repeat;
 }
 #home {
-    background-image: url(../images/main-bg.jpg);
+    background-image: url(../images/derek-oyen-3Xd5j9-drDA-unsplashのコピー.jpg);
     min-height: 100vh;
 }
 #home .page-title {
     text-transform: none;
+    color: #FFF;
 }
 
 /* NEWS------------------------------- */
 #news {
-    background-image: url(../images/news-bg.jpg);
+    background-image: url(../images/derek-oyen-3Xd5j9-drDA-unsplashのコピー.jpg);
     height: 270px;
     margin-bottom: 40px;
 }
 #news .page-title {
     text-align: center;
+    color: #FFF;
 }
 /* 記事部分 */
 article {
@@ -230,9 +232,12 @@ footer p {
 }
 /* CONTACT */
 #contact {
-    background-image: url(../images/contact-bg.jpg);
+    background-image: url(../images/derek-oyen-3Xd5j9-drDA-unsplashのコピー.jpg);
     min-height: 100vh;
 }
+#contact .page-title {
+    color: #FFF;
+    }
 /* ふぉーむ */
 form div {
     margin-bottom: 14px;
