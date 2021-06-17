@@ -186,6 +186,22 @@ article p {
 aside p{
     padding: 12px 10px;
 }
+/* MENU */
+#menu {
+    background-image: url(../images/menu-bg.jpg);
+    min-height: 100vh;
+}
+.menu-content {
+    max-width: 560px;
+    margin-top: 10%;
+}
+.menu-content .page-title {
+    text-align: center;
+}
+.menu-content p {
+    font-size: 1.125rem;
+    margin: 10px 0 0;
+}
 /* フッター ---------------------------*/
 footer {
     background: #432;
@@ -196,6 +212,7 @@ footer p {
     color: #fff;
     font-size: 0.875rem;
 }
+
 /* モバイル版*/
 @media (max-width:600px) {
     .page-title {
@@ -256,4 +273,9 @@ footer p {
     .post-cat {
          margin-left: 80px;
      }
+     /* MENU*/
+    .menu-content {
+    margin-top: 20%;
+}
+
 }
